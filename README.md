@@ -1,2 +1,2 @@
-# osmon-calculator
- Dunyodagi birinchi Osmonscriptda yasalgan web-calculator
+# Osmon Script based Calculator
+Simple calculator written on top of Osmonscript JS Transpiler
